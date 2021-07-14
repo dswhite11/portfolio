@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DW</title>
+    <link>https://dswhite11.github.io/portfolio_source/tags/</link>
+    <description>Recent content in Tags on DW</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dswhite11.github.io/portfolio_source/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SQL</title>
+      <link>https://dswhite11.github.io/portfolio_source/tags/sql/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio_source/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://dswhite11.github.io/portfolio_source/tags/tableau/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio_source/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://dswhite11.github.io/portfolio_source/tags/python/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio_source/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://dswhite11.github.io/portfolio_source/tags/r/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio_source/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://dswhite11.github.io/portfolio_source/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio_source/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>https://dswhite11.github.io/portfolio_source/tags/academia/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio_source/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
