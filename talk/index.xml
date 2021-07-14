@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on DW</title>
-    <link>https://dswhite11.github.io/portfolio_source/talk/</link>
+    <link>https://dswhite11.github.io/production/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on DW</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://dswhite11.github.io/portfolio_source/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://dswhite11.github.io/production/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Coding and Analyzing Qualitative Data</title>
-      <link>https://dswhite11.github.io/portfolio_source/talk/coding/</link>
+      <link>https://dswhite11.github.io/production/talk/coding/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://dswhite11.github.io/portfolio_source/talk/coding/</guid>
+      <guid>https://dswhite11.github.io/production/talk/coding/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Qualitative Research Summer Intensive</title>
-      <link>https://dswhite11.github.io/portfolio_source/talk/qualitative/</link>
+      <link>https://dswhite11.github.io/production/talk/qualitative/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://dswhite11.github.io/portfolio_source/talk/qualitative/</guid>
+      <guid>https://dswhite11.github.io/production/talk/qualitative/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>Synthesizing Qualitative Data</title>
-      <link>https://dswhite11.github.io/portfolio_source/talk/synthesizing/</link>
+      <link>https://dswhite11.github.io/production/talk/synthesizing/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://dswhite11.github.io/portfolio_source/talk/synthesizing/</guid>
+      <guid>https://dswhite11.github.io/production/talk/synthesizing/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
