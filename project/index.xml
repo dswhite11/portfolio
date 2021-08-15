@@ -7,41 +7,29 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dswhite11.github.io/portfolio/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chattanooga 911 Calls Dashboard</title>
+      <title>Chattanooga Crime Calls Dashboard</title>
       <link>https://dswhite11.github.io/portfolio/project/911calls/</link>
-      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://dswhite11.github.io/portfolio/project/911calls/</guid>
-      <description>&lt;p&gt;I created this report from an R Notebook as the capstone project to Google’s Data Analytics Certificate course, hosted on Coursera. The purpose of the project was to analyze the data of a bike-share company in Chicago, and provide recommendations to the company’s marketing team for their new ad campaign.&lt;/p&gt;
-&lt;p&gt;The report is extremely detailed and shows nearly all the steps I took in the analysis process. It begins with uploading and manipulating the data in PostgreSQL and Excel, then moves to cleaning and reorganizing the data, and ends with visualizations created in RStudio and Tableau.&lt;/p&gt;
+      <description>&lt;p&gt;This is a simple visualization I created in Tableau using various public COVID-19 data. COVID-19 changed the world in the spring of 2020 and quickly evolved into not just a social and cultural issue, but a political one as well. In the months since the outbreak began, Americans have become polarized around auxiliary things like vaccinations, lockdowns, and masks. People who lean Republican generally appear to look upon the aforementioned COVID measures unfavorably, while Democratic-leaning people generally hold the opposite view.&lt;/p&gt;
+&lt;p&gt;It is reasonable to assume, based on the trends of supporters of both parties, that there might exist a relationship between a state&amp;rsquo;s preferred candidate in the 2020 presidential election &amp;ndash; Donald Trump of the Republicans or Joe Biden of the Democrats &amp;ndash; and that state&amp;rsquo;s COVID outcomes, specifically around cases, deaths, and vaccination rates. Rather than rest on an assumption, I analyzed public COVID data using Tableau to explore whether such relationships exist.&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Used SQL to combined datasets and explore data&lt;/li&gt;
-&lt;li&gt;Calculated ride times in SQL, and cleaned data of negative ride times&lt;/li&gt;
-&lt;li&gt;Using SQL, calculated mean ride times, weekend and weekday ride counts, mean weekend and weekday ride counts by month&lt;/li&gt;
-&lt;li&gt;Used R and Lubridate library to converted ride times (HH:MM:SS) to decimals&lt;/li&gt;
-&lt;li&gt;Used SQL to clean the latitude and longitude data&lt;/li&gt;
-&lt;li&gt;Plotted mean ride times, weekend/weekday ride counts, mean weekend/weekday ride counts using ggplot2 library&lt;/li&gt;
-&lt;li&gt;Created map visualizations in Tableau&lt;/li&gt;
+&lt;li&gt;Downloaded and cleaned data in Excel&lt;/li&gt;
+&lt;li&gt;Loaded data into Tableau&lt;/li&gt;
+&lt;li&gt;Created dashboard in Tableau&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;PostgreSQL&lt;/li&gt;
-&lt;li&gt;Postico&lt;/li&gt;
 &lt;li&gt;Excel&lt;/li&gt;
-&lt;li&gt;RStudio&lt;/li&gt;
 &lt;li&gt;Tableau&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;SQL&lt;/li&gt;
-&lt;li&gt;R&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
 &lt;p&gt;
@@ -83,6 +71,44 @@
 
 &lt;/figure&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preferred Presidential Candidate &amp; COVID-19 Statistics</title>
+      <link>https://dswhite11.github.io/portfolio/project/covid_voting/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/covid_voting/</guid>
+      <description>&lt;p&gt;This is a simple visualization I created in Tableau using various public COVID-19 data. COVID-19 changed the world in the spring of 2020 and quickly evolved into not just a social and cultural issue, but a political one as well. In the months since the outbreak began, Americans have become polarized around auxiliary things like vaccinations, lockdowns, and masks. People who lean Republican generally appear to look upon the aforementioned COVID measures unfavorably, while Democratic-leaning people generally hold the opposite view.&lt;/p&gt;
+&lt;p&gt;It is reasonable to assume, based on the trends of supporters of both parties, that there might exist a relationship between a state&amp;rsquo;s preferred candidate in the 2020 presidential election &amp;ndash; Donald Trump of the Republicans or Joe Biden of the Democrats &amp;ndash; and that state&amp;rsquo;s COVID outcomes, specifically around cases, deaths, and vaccination rates. Rather than rest on an assumption, I analyzed public COVID data using Tableau to explore whether such relationships exist.&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Downloaded and cleaned data in Excel&lt;/li&gt;
+&lt;li&gt;Loaded data into Tableau&lt;/li&gt;
+&lt;li&gt;Created dashboard in Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Excel&lt;/li&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/img_covid_voting.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;view&#34;&gt;View&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://public.tableau.com/app/profile/david.white5299/viz/VotingandCOVIDRelationships_16289995921210/Dashboard1?publish=yes&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
