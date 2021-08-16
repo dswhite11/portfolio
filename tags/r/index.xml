@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Cyclistics Bike-Share Analysis Report</title>
+      <title>Cyclistics Bike-Share Case Study</title>
       <link>https://dswhite11.github.io/portfolio/project/cyclistics/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -52,7 +52,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/cyclistics_anim_screenshot.gif&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/cyclistics_anim_screenshot.gif&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
 
 
 &lt;/figure&gt;
@@ -65,7 +65,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/mean_daily_ride_count.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/mean_daily_ride_count.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
 
 
 &lt;/figure&gt;
@@ -78,11 +78,13 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/ride_geographical_distribution.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/ride_geographical_distribution.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
 
 
 &lt;/figure&gt;
 &lt;/p&gt;
+&lt;h3 id=&#34;view&#34;&gt;View&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://dswhite11.github.io/portfolio/portfolio/files/cycling_notebook.html&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

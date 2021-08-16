@@ -19,6 +19,7 @@
       
       <guid>https://dswhite11.github.io/portfolio/project/911calls/</guid>
       <description>&lt;p&gt;I used a dataset from Kaggle.com to create a dashboard for 911 calls in Hamilton County, TN. I stored and cleaned the data in Excel and PostgreSQL (using the Postico client) and created the dashboard/visualization in Tableau.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/barnacles/chattanooga-crime-stats&#34;&gt;Dataset&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Downloaded and cleaned data in Excel&lt;/li&gt;
@@ -31,46 +32,6 @@
 &lt;li&gt;Tableau&lt;/li&gt;
 &lt;li&gt;PostgreSQL and Postico&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/cyclistics_anim_screenshot.gif&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/mean_daily_ride_count.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/ride_geographical_distribution.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
 &lt;h3 id=&#34;view&#34;&gt;View&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://public.tableau.com/views/Books2020_16052071128230/Daves2020ReadingLog?:language=en-US&amp;amp;:display_count=n&amp;amp;:origin=viz_share_link&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -115,7 +76,7 @@
     </item>
     
     <item>
-      <title>Cyclistics Bike-Share Analysis Report</title>
+      <title>Cyclistics Bike-Share Case Study</title>
       <link>https://dswhite11.github.io/portfolio/project/cyclistics/</link>
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -154,7 +115,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/cyclistics_anim_screenshot.gif&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/cyclistics_anim_screenshot.gif&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
 
 
 &lt;/figure&gt;
@@ -167,7 +128,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/mean_daily_ride_count.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/mean_daily_ride_count.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
 
 
 &lt;/figure&gt;
@@ -180,11 +141,13 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/ride_geographical_distribution.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/ride_geographical_distribution.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
 
 
 &lt;/figure&gt;
 &lt;/p&gt;
+&lt;h3 id=&#34;view&#34;&gt;View&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://dswhite11.github.io/portfolio/portfolio/files/cycling_notebook.html&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -259,7 +222,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/Movie%20Correlation%20Project_13_1.png&#34; &gt;
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/Movie%20Correlation%20Project_13_1.png&#34; &gt;
 
 
 &lt;/figure&gt;
@@ -272,7 +235,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/Movie%20Correlation%20Project_20_0.png&#34; &gt;
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/Movie%20Correlation%20Project_20_0.png&#34; &gt;
 
 
 &lt;/figure&gt;

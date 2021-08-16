@@ -19,6 +19,7 @@
       
       <guid>https://dswhite11.github.io/portfolio/project/911calls/</guid>
       <description>&lt;p&gt;I used a dataset from Kaggle.com to create a dashboard for 911 calls in Hamilton County, TN. I stored and cleaned the data in Excel and PostgreSQL (using the Postico client) and created the dashboard/visualization in Tableau.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/barnacles/chattanooga-crime-stats&#34;&gt;Dataset&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Downloaded and cleaned data in Excel&lt;/li&gt;
@@ -30,6 +31,42 @@
 &lt;li&gt;Excel&lt;/li&gt;
 &lt;li&gt;Tableau&lt;/li&gt;
 &lt;li&gt;PostgreSQL and Postico&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;view&#34;&gt;View&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://public.tableau.com/views/Books2020_16052071128230/Daves2020ReadingLog?:language=en-US&amp;amp;:display_count=n&amp;amp;:origin=viz_share_link&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyclistics Bike-Share Case Study</title>
+      <link>https://dswhite11.github.io/portfolio/project/cyclistics/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/cyclistics/</guid>
+      <description>&lt;p&gt;I created this report from an R Notebook as the capstone project to Google’s Data Analytics Certificate course, hosted on Coursera. The purpose of the project was to analyze the data of a bike-share company in Chicago, and provide recommendations to the company’s marketing team for their new ad campaign.&lt;/p&gt;
+&lt;p&gt;The report is extremely detailed and shows nearly all the steps I took in the analysis process. It begins with uploading and manipulating the data in PostgreSQL and Excel, then moves to cleaning and reorganizing the data, and ends with visualizations created in RStudio and Tableau.&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Used SQL to combined datasets and explore data&lt;/li&gt;
+&lt;li&gt;Calculated ride times in SQL, and cleaned data of negative ride times&lt;/li&gt;
+&lt;li&gt;Using SQL, calculated mean ride times, weekend and weekday ride counts, mean weekend and weekday ride counts by month&lt;/li&gt;
+&lt;li&gt;Used R and Lubridate library to converted ride times (HH:MM:SS) to decimals&lt;/li&gt;
+&lt;li&gt;Used SQL to clean the latitude and longitude data&lt;/li&gt;
+&lt;li&gt;Plotted mean ride times, weekend/weekday ride counts, mean weekend/weekday ride counts using ggplot2 library&lt;/li&gt;
+&lt;li&gt;Created map visualizations in Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Postico&lt;/li&gt;
+&lt;li&gt;Excel&lt;/li&gt;
+&lt;li&gt;RStudio&lt;/li&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
 &lt;p&gt;
@@ -72,81 +109,7 @@
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;view&#34;&gt;View&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://public.tableau.com/views/Books2020_16052071128230/Daves2020ReadingLog?:language=en-US&amp;amp;:display_count=n&amp;amp;:origin=viz_share_link&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cyclistics Bike-Share Analysis Report</title>
-      <link>https://dswhite11.github.io/portfolio/project/cyclistics/</link>
-      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dswhite11.github.io/portfolio/project/cyclistics/</guid>
-      <description>&lt;p&gt;I created this report from an R Notebook as the capstone project to Google’s Data Analytics Certificate course, hosted on Coursera. The purpose of the project was to analyze the data of a bike-share company in Chicago, and provide recommendations to the company’s marketing team for their new ad campaign.&lt;/p&gt;
-&lt;p&gt;The report is extremely detailed and shows nearly all the steps I took in the analysis process. It begins with uploading and manipulating the data in PostgreSQL and Excel, then moves to cleaning and reorganizing the data, and ends with visualizations created in RStudio and Tableau.&lt;/p&gt;
-&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Used SQL to combined datasets and explore data&lt;/li&gt;
-&lt;li&gt;Calculated ride times in SQL, and cleaned data of negative ride times&lt;/li&gt;
-&lt;li&gt;Using SQL, calculated mean ride times, weekend and weekday ride counts, mean weekend and weekday ride counts by month&lt;/li&gt;
-&lt;li&gt;Used R and Lubridate library to converted ride times (HH:MM:SS) to decimals&lt;/li&gt;
-&lt;li&gt;Used SQL to clean the latitude and longitude data&lt;/li&gt;
-&lt;li&gt;Plotted mean ride times, weekend/weekday ride counts, mean weekend/weekday ride counts using ggplot2 library&lt;/li&gt;
-&lt;li&gt;Created map visualizations in Tableau&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;PostgreSQL&lt;/li&gt;
-&lt;li&gt;Postico&lt;/li&gt;
-&lt;li&gt;Excel&lt;/li&gt;
-&lt;li&gt;RStudio&lt;/li&gt;
-&lt;li&gt;Tableau&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;SQL&lt;/li&gt;
-&lt;li&gt;R&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
-&lt;p&gt;
-
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/cyclistics_anim_screenshot.gif&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/mean_daily_ride_count.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/ride_geographical_distribution.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dswhite11.github.io/portfolio/portfolio/files/cycling_notebook.html&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
