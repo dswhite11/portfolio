@@ -7,10 +7,42 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dswhite11.github.io/portfolio/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TN Foster Care Race Overrepresentation</title>
+      <link>https://dswhite11.github.io/portfolio/project/foster_care_race_analysis/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/foster_care_race_analysis/</guid>
+      <description>&lt;p&gt;The purpose of this analysis and visualization was to determine whether certain races were overrepesented or underrepresented in the foster care system of Tennessee. The foster system exists to alleviate pain and problems caused by family dysfunction, and an analysis of the system across racial lines is useful as a starting point to identifying the sources of those problems.&lt;/p&gt;
+&lt;p&gt;The data clearly shows that Black and Hispanic race is overrepesented as a percentage of the foster care population, while the White race is dramatically underrepresented.&lt;/p&gt;
+&lt;p&gt;This visualization was created using data from the US Census Bureau and KidsCount.org, a project of the Annie E. Casey Foundation to track the well-being of children in the United States. The two sources use different terminology for race classifications, so for simplicity&amp;rsquo;s sake I merged them into the categories White, Black, Asian, American Indian, and Hispanic. The loss of precision allows for a clean, easily interpreted visualization.&lt;/p&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/portfolio/img/foster_race_preview.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;view&#34;&gt;View&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://public.tableau.com/app/profile/david.white5299/viz/TNFosterChildrenViz/TreemapDash&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chattanooga Crime Calls Dashboard</title>
